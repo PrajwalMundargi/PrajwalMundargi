@@ -1,5 +1,3 @@
-!-- GitHub Profile Header -->
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Prajwal%20Mundargi&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="GitHub Header" width="100%"/>
   <h3>
@@ -27,64 +25,51 @@ Eveready to gain knowledge of any domain.
 
 ### Skills
 
-<!-- Skills Section -->
-<h2 align="center">Skills & Technologies</h2>
-<div align="center">
+<h2 align="center" style="font-size: 2rem; margin-bottom: 1rem;">🚀 Skills & Technologies</h2>
+
+<div align="center" style="display: flex; flex-direction: column; gap: 2rem; max-width: 900px; margin: auto;">
+
   <!-- Programming Languages -->
-  <h3>Programming Languages</h3>
-  <p>
-    <a href="https://docs.microsoft.com/en-us/cpp/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-    </a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <div>
+    <h3>🧠 Programming Languages</h3>
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    </a>
-  </p>
+    </div>
+  </div>
+
   <!-- Frontend Development -->
-  <h3>Frontend Development</h3>
-  <p>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+  <div>
+    <h3>🎨 Frontend Development</h3>
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    </a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    </a>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-    </a>
-  </p>
+    </div>
+  </div>
+
   <!-- Backend Development -->
-  <h3>Backend & Tools</h3>
-  <p>
-    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+  <div>
+    <h3>🛠️ Backend & Tools</h3>
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
-    </a>
-    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    </a>
-  </p>
+    </div>
+  </div>
+
   <!-- Databases -->
-  <h3>Databases</h3>
-  <p>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <div>
+    <h3>🗄️ Databases</h3>
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    </a>
-  </p>
+    </div>
+  </div>
+
 </div>
 
 A curated list of my projects showcasing a variety of skills in web development, backend, and open-source contributions. Click on the project names to explore them!
