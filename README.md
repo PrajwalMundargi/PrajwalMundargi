@@ -1,4 +1,19 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Prajwal Mundargi
+!-- GitHub Profile Header -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Prajwal%20Mundargi&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="GitHub Header" width="100%"/>
+  <h3>
+    Software Developer | Problem Solver | Tech Enthusiast
+  </h3>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C98F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+technologies;Passionate+about+clean+code" alt="Typing SVG" />
+  </p>
+  <p>
+    <a href="https://github.com/PrajwalMundargi">
+      <img src="https://komarev.com/ghpvc/?username=PrajwalMundargi&style=flat-square&color=blue" alt="Profile Views"/>
+    </a>
+  </p>
+</div>
 
 ## MERN Developer(Mongo, Express, React, Node)
 
