@@ -89,19 +89,26 @@ A curated list of my projects showcasing a variety of skills in web development,
 
 ### Socials
 
-<p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/prajwal-m-787b6733b/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/PrajwalMundargi">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/26387168/prajwal-m">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
-			<img src="https://cdn-icons-png.flaticon.com/128/15466/15466088.png" ></a>
-      </div>
-
-</p>
+<a href="https://twitter.com/100rabhcsmc" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+  </div>
+  <!-- Alternative Circular Icons Version -->
+  <div style="margin-top: 20px;">
+    <a href="https://www.linkedin.com/in/prajwal-m-787b6733b/" target="_blank" style="text-decoration: none;">
+      <img src="https://img.icons8.com/fluent/50/000000/linkedin.png" alt="LinkedIn" width="40" height="40" style="margin: 0 10px;" />
+    </a>
+    <a href="https://github.com/PrajwalMundargi" target="_blank" style="text-decoration: none;">
+      <img src="https://img.icons8.com/fluent/50/000000/github.png" alt="GitHub" width="40" height="40" style="margin: 0 10px;" />
+    </a>
+    <a href="https://stackoverflow.com/users/26387168/prajwal-m" target="_blank" style="text-decoration: none;">
+      <img src="https://img.icons8.com/color/50/000000/stackoverflow.png" alt="Stack Overflow" width="40" height="40" style="margin: 0 10px;" />
+    </a>
+    <a href="https://instagram.com/100rabhch" target="_blank" style="text-decoration: none;">
+      <img src="https://img.icons8.com/fluent/50/000000/instagram-new.png" alt="Instagram" width="40" height="40" style="margin: 0 10px;" />
+    </a>
+    <a href="https://twitter.com/100rabhcsmc" target="_blank" style="text-decoration: none;">
+      <img src="https://img.icons8.com/fluent/50/000000/twitter.png" alt="Twitter" width="40" height="40" style="margin: 0 10px;" />
+    </a>
+  </div>
+</div>
