@@ -1,14 +1,14 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anantesh G
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Prajwal Mundargi
 
-## T3 Stack Developer (Typescript, Tailwind, Nextjs)
+## MERN Developer(Mongo, Express, React, Node)
 
-A passion for crafting engaging and user-friendly digital experiences.
+Eveready to gain knowledge of any domain.
 
 - 🌍 I'm based in India
-- ✉ You can contact me at [anantesh234@gmail.com](mailto:anantesh234@gmail.com)
-- 🧠 I'm learning PrismaORM, Supabase, GraphQL
-- 🤝 I'm open to collaborating on Full-Stack Projects
-- ⚡ Committing code and pushing boundaries since 2004
+- ✉ You can contact me at [prajwalmundrigi@gmail.com](mailto:prajwalmundrigi@gmail.com)
+- 🧠 I'm learning Docker, Kubernetes, Software debugging
+- 🤝 I'm open to collaboration
+- ⚡ Into to the earth's network since 2003
 
 ### Skills
 
@@ -18,26 +18,26 @@ A passion for crafting engaging and user-friendly digital experiences.
 
 A curated list of my projects showcasing a variety of skills in web development, backend, and open-source contributions. Click on the project names to explore them!
 
-| _Project Name_        | _Description_                                               | _Tech Stack_              | _Live Link_                                                   |
-| --------------------- | ----------------------------------------------------------- | ------------------------- | ------------------------------------------------------------- |
-| _Gogetgit_            | CLI tool to scrape any GitHub repo and ask questions to it. | LLAMA, Go-lang, Python    | [GitHub](https://github.com/AnanteshG/Gogetgit)               |
-| _ContestHub_          | A hub to stay updated with upcoming coding contests.        | React, API Integration    | [Live Demo](https://contest-hub-live.vercel.app/)             |
-| _Flex-Folio_          | A customizable portfolio template for developers.           | React, Vercel             | [Live Demo](https://flex-folio.vercel.app/)                   |
-| _Article Summarizer_  | AI-powered tool to summarize articles effectively.          | React, AI Integration     | [Live Demo](https://article-summarizer-tau.vercel.app/)       |
-| _Dijkstra Visualizer_ | Visualizes Dijkstra's algorithm for pathfinding.            | JavaScript, HTML, CSS     | [Live Demo](https://tinyurl.com/msjj6h33)                     |
-| _Sudoku Solver_       | A web app to solve Sudoku puzzles.                          | JavaScript, HTML, CSS     | [Live Demo](https://sudosolverr.vercel.app/)                  |
-| _Quasar_              | A prompt-based project to enhance creativity.               | React, Node.js            | [Live Demo](https://quasar-prompt.vercel.app/)                |
-| _Nike Landing Page_   | A visually appealing Nike-themed landing page.              | HTML, CSS, JavaScript     | [Live Demo](https://nike-landing-page-hades.vercel.app/)      |
-| _Pure Backend_        | Backend-only project for a course-selling platform.         | Node.js, Express, MongoDB | [GitHub](https://github.com/AnanteshG/course-selling-backend) |
-| _Open Source Demo_    | A demo to showcase open-source contributions.               | React, Open Source        | [Live Demo](https://open-source-gdsc.vercel.app/)             |
-| _Thrilling Game_      | A fun, interactive past-or-future game.                     | JavaScript, Netlify       | [Live Demo](https://past-or-future.netlify.app/)              |
-| _To-Do App_           | A feature-rich to-do application to boost productivity.     | React                     | [Live Demo](https://to-do-app-hades.vercel.app/)              |
-| _Bulk Mail Sender_    | A tool to send bulk emails efficiently.                     | Node.js, Nodemailer       | [GitHub](https://github.com/AnanteshG/Bulk-mail-sender)       |
-| _One Piece Bounties_  | Displays bounties of One Piece characters in a fun UI.      | HTML, CSS, JavaScript     | [Live Demo](https://tinyurl.com/2m8nfvez)                     |
-| _Web Code Editor_     | A lightweight online code editor for quick snippets.        | React, Netlify            | [Live Demo](https://code-editor-hades.netlify.app/)           |
-| _Quote Generator_     | Generates motivational quotes at the click of a button.     | React, Vercel             | [Live Demo](https://motivquotes.vercel.app/)                  |
-| _Inbox Master_        | A web app to organize and manage your emails.               | React, Netlify            | [Live Demo](https://inbox-master.netlify.app/)                |
-| _Mini URL_            | URL shortener to create easy-to-share links.                | React, Netlify            | [Live Demo](https://mini-url-hades.netlify.app/)              |
+| _Project Name_       | _Description_                                                              | _Tech Stack_              | _Live Link_                                                   |
+| -------------------- | -------------------------------------------------------------------------- | ------------------------- | ------------------------------------------------------------- |
+| _Gogetgit_           | CLI tool to scrape any GitHub repo and ask questions to it.                | LLAMA, Go-lang, Python    | [GitHub](https://github.com/AnanteshG/Gogetgit)               |
+| _Scraptopedia_       | Want to extract data from any website and use it as an API??.              | Node, Puppeteer, MongoDB  | [Live Demo](https://contest-hub-live.vercel.app/)             |
+| _Attendance Manager_ | Use openCV to recognize and mark attendance also set attendance reminders. | Python, MongoDB, OpenCV   | [Live Demo](https://flex-folio.vercel.app/)                   |
+| _Code2Gether_        | Real-time collaborative online compiler.                                   | Docker, Websocket         | [Live Demo](https://article-summarizer-tau.vercel.app/)       |
+| _A\* Visualizer_     | Visualizes A\* algorithm for pathfinding.                                  | JavaScript, HTML, CSS     | [Live Demo](https://tinyurl.com/msjj6h33)                     |
+| _Sudoku Solver_      | A web app to solve Sudoku puzzles.                                         | JavaScript, HTML, CSS     | [Live Demo](https://sudosolverr.vercel.app/)                  |
+| _Quasar_             | A prompt-based project to enhance creativity.                              | React, Node.js            | [Live Demo](https://quasar-prompt.vercel.app/)                |
+| _Nike Landing Page_  | A visually appealing Nike-themed landing page.                             | HTML, CSS, JavaScript     | [Live Demo](https://nike-landing-page-hades.vercel.app/)      |
+| _Pure Backend_       | Backend-only project for a course-selling platform.                        | Node.js, Express, MongoDB | [GitHub](https://github.com/AnanteshG/course-selling-backend) |
+| _Open Source Demo_   | A demo to showcase open-source contributions.                              | React, Open Source        | [Live Demo](https://open-source-gdsc.vercel.app/)             |
+| _Thrilling Game_     | A fun, interactive past-or-future game.                                    | JavaScript, Netlify       | [Live Demo](https://past-or-future.netlify.app/)              |
+| _To-Do App_          | A feature-rich to-do application to boost productivity.                    | React                     | [Live Demo](https://to-do-app-hades.vercel.app/)              |
+| _Bulk Mail Sender_   | A tool to send bulk emails efficiently.                                    | Node.js, Nodemailer       | [GitHub](https://github.com/AnanteshG/Bulk-mail-sender)       |
+| _One Piece Bounties_ | Displays bounties of One Piece characters in a fun UI.                     | HTML, CSS, JavaScript     | [Live Demo](https://tinyurl.com/2m8nfvez)                     |
+| _Web Code Editor_    | A lightweight online code editor for quick snippets.                       | React, Netlify            | [Live Demo](https://code-editor-hades.netlify.app/)           |
+| _Quote Generator_    | Generates motivational quotes at the click of a button.                    | React, Vercel             | [Live Demo](https://motivquotes.vercel.app/)                  |
+| _Inbox Master_       | A web app to organize and manage your emails.                              | React, Netlify            | [Live Demo](https://inbox-master.netlify.app/)                |
+| _Mini URL_           | URL shortener to create easy-to-share links.                               | React, Netlify            | [Live Demo](https://mini-url-hades.netlify.app/)              |
 
 ---
 
