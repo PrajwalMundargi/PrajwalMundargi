@@ -18,26 +18,16 @@ Eveready to gain knowledge of any domain.
 
 A curated list of my projects showcasing a variety of skills in web development, backend, and open-source contributions. Click on the project names to explore them!
 
-| _Project Name_       | _Description_                                                              | _Tech Stack_              | _Live Link_                                                   |
-| -------------------- | -------------------------------------------------------------------------- | ------------------------- | ------------------------------------------------------------- |
-| _Gogetgit_           | CLI tool to scrape any GitHub repo and ask questions to it.                | LLAMA, Go-lang, Python    | [GitHub](https://github.com/AnanteshG/Gogetgit)               |
-| _Scraptopedia_       | Want to extract data from any website and use it as an API??.              | Node, Puppeteer, MongoDB  | [Live Demo](https://contest-hub-live.vercel.app/)             |
-| _Attendance Manager_ | Use openCV to recognize and mark attendance also set attendance reminders. | Python, MongoDB, OpenCV   | [Live Demo](https://flex-folio.vercel.app/)                   |
-| _Code2Gether_        | Real-time collaborative online compiler.                                   | Docker, Websocket         | [Live Demo](https://article-summarizer-tau.vercel.app/)       |
-| _A\* Visualizer_     | Visualizes A\* algorithm for pathfinding.                                  | JavaScript, HTML, CSS     | [Live Demo](https://tinyurl.com/msjj6h33)                     |
-| _Sudoku Solver_      | A web app to solve Sudoku puzzles.                                         | JavaScript, HTML, CSS     | [Live Demo](https://sudosolverr.vercel.app/)                  |
-| _Quasar_             | A prompt-based project to enhance creativity.                              | React, Node.js            | [Live Demo](https://quasar-prompt.vercel.app/)                |
-| _Nike Landing Page_  | A visually appealing Nike-themed landing page.                             | HTML, CSS, JavaScript     | [Live Demo](https://nike-landing-page-hades.vercel.app/)      |
-| _Pure Backend_       | Backend-only project for a course-selling platform.                        | Node.js, Express, MongoDB | [GitHub](https://github.com/AnanteshG/course-selling-backend) |
-| _Open Source Demo_   | A demo to showcase open-source contributions.                              | React, Open Source        | [Live Demo](https://open-source-gdsc.vercel.app/)             |
-| _Thrilling Game_     | A fun, interactive past-or-future game.                                    | JavaScript, Netlify       | [Live Demo](https://past-or-future.netlify.app/)              |
-| _To-Do App_          | A feature-rich to-do application to boost productivity.                    | React                     | [Live Demo](https://to-do-app-hades.vercel.app/)              |
-| _Bulk Mail Sender_   | A tool to send bulk emails efficiently.                                    | Node.js, Nodemailer       | [GitHub](https://github.com/AnanteshG/Bulk-mail-sender)       |
-| _One Piece Bounties_ | Displays bounties of One Piece characters in a fun UI.                     | HTML, CSS, JavaScript     | [Live Demo](https://tinyurl.com/2m8nfvez)                     |
-| _Web Code Editor_    | A lightweight online code editor for quick snippets.                       | React, Netlify            | [Live Demo](https://code-editor-hades.netlify.app/)           |
-| _Quote Generator_    | Generates motivational quotes at the click of a button.                    | React, Vercel             | [Live Demo](https://motivquotes.vercel.app/)                  |
-| _Inbox Master_       | A web app to organize and manage your emails.                              | React, Netlify            | [Live Demo](https://inbox-master.netlify.app/)                |
-| _Mini URL_           | URL shortener to create easy-to-share links.                               | React, Netlify            | [Live Demo](https://mini-url-hades.netlify.app/)              |
+| _Project Name_         | _Description_                                                              | _Tech Stack_                      | _Live Link_                                                    |
+| ---------------------- | -------------------------------------------------------------------------- | --------------------------------- | -------------------------------------------------------------- |
+| _Gogetgit_             | CLI tool to scrape any GitHub repo and ask questions to it.                | LLAMA, Go-lang, Python            | [GitHub](https://github.com/AnanteshG/Gogetgit)                |
+| _Scraptopedia_         | Want to extract data from any website and use it as an API??.              | Node, Puppeteer, MongoDB          | [GitHub](https://github.com/PrajwalMundargi/Scraptopedia/)     |
+| _Attendance Manager_   | Use openCV to recognize and mark attendance also set attendance reminders. | Python, MongoDB, OpenCV           | [GitHub](https://github.com/PrajwalMundargi/Attendance_Guide/) |
+| _Code2Gether_          | Real-time collaborative online compiler.                                   | Docker, Websocket                 | [GitHub](https://article-summarizer-tau.vercel.app/)           |
+| _A\* Visualizer_       | Visualizes A\* algorithm for pathfinding.                                  | JavaScript, HTML, CSS             | [GitHub](https://github.com/PrajwalMundargi/astar_algorithm/)  |
+| _Three.js X Cyberpuck_ | 3D model visualizer.                                                       | Three.js, GSAP, React-three-fiber | [Live Demo](threejs-x-cyberpunk.vercel.app)                    |
+| _Rsc Website_          | College Sports Club website                                                | React, GSAP,Tailwind              | [GitHub](https://github.com/PrajwalMundargi/rsc-website)       |
+| _A Music App_          | An internactive music app built using P5.js                                | HTML, CSS, JavaScript , P5.js     | [GitHub](https://github.com/PrajwalMundargi/The-Music-App/)    |
 
 ---
 
