@@ -84,7 +84,7 @@ A curated list of my projects showcasing a variety of skills in web development,
 | _Three.js X Cyberpuck_ | 3D model visualizer.                                                       | Three.js, GSAP, React-three-fiber | [Live Demo](threejs-x-cyberpunk.vercel.app)                    |
 | _Rsc Website_          | College Sports Club website                                                | React, GSAP,Tailwind              | [GitHub](https://github.com/PrajwalMundargi/rsc-website)       |
 | _A Music App_          | An internactive music app built using P5.js                                | HTML, CSS, JavaScript , P5.js     | [GitHub](https://github.com/PrajwalMundargi/The-Music-App/)    |
-| _Code2Gether_ |        | A collaborative online compiler that makes collaboration easy with the help of rooms, user can join on create a room and code Collaboratively |Socket.io, React, Tailwind, Three.js, Node.js, Express.js, MongoDB | [GitHub] (https://github.com/PrajwalMundargi/codetogether-backend)
+| _Code2Gether_          | A collaborative online compiler, users can either create a room or join to and code collarboratively, all the code sync happens in real-time | React, Tailwind, Three.js, Node.js, Socket.io, Express.js, MongoDB | [Live Demo](https://github.com/PrajwalMundargi/codetogether-backend/)
 ---
 
 ### Socials
