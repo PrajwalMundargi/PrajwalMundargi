@@ -78,8 +78,7 @@ A curated list of my projects showcasing a variety of skills in web development,
 | ---------------------- | -------------------------------------------------------------------------- | --------------------------------- | -------------------------------------------------------------- |
 | _Gogetgit_             | CLI tool to scrape any GitHub repo and ask questions to it.                | LLAMA, Go-lang, Python            | [GitHub](https://github.com/AnanteshG/Gogetgit)                |
 | _Scraptopedia_         | Want to extract data from any website and use it as an API??.              | Node, Puppeteer, MongoDB          | [GitHub](https://github.com/PrajwalMundargi/Scraptopedia/)     |
-| _Attendance Manager_   | Use openCV to recognize and mark attendance also set attendance reminders. | Python, MongoDB, OpenCV           | [GitHub](https://github.com/PrajwalMundargi/Attendance_Guide/) |
-| _Code2Gether_          | Real-time collaborative online compiler.                                   | Docker, Websocket                 | [GitHub](https://article-summarizer-tau.vercel.app/)           |
+| _Attendance Manager_   | Use openCV to recognize and mark attendance also set attendance reminders. | Python, MongoDB, OpenCV           | [GitHub](https://github.com/PrajwalMundargi/Attendance_Guide/) |          |
 | _A\* Visualizer_       | Visualizes A\* algorithm for pathfinding.                                  | JavaScript, HTML, CSS             | [GitHub](https://github.com/PrajwalMundargi/astar_algorithm/)  |
 | _Three.js X Cyberpuck_ | 3D model visualizer.                                                       | Three.js, GSAP, React-three-fiber | [Live Demo](threejs-x-cyberpunk.vercel.app)                    |
 | _Rsc Website_          | College Sports Club website                                                | React, GSAP,Tailwind              | [GitHub](https://github.com/PrajwalMundargi/rsc-website)       |
